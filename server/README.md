@@ -7,6 +7,6 @@
 In CLI run the command `npm run devStart`
 
 ### Insalled dependencies
-...mongoose
-...socketio
-...nodemon
+- mongoose
+- socketio
+- nodemon
