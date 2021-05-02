@@ -1,2 +1,2 @@
-#vDocs :: Collaborative document editor
+# vDocs :: Collaborative document editor
 
